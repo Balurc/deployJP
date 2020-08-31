@@ -1,0 +1,10 @@
+.stButton>button {
+    background-color: #2e85e8;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.stTextInput>div>div>input {
+    color: #6f2ee8;
+}
