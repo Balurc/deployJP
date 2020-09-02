@@ -48,7 +48,7 @@ st.markdown(
 st.title("HC Analytics")
 html_temp = """
     <div style="background-color:#f0b837;padding:10px">
-    <h2 style="color:white;text-align:center;"><b>Employee Performance Prediction for Job Rotation</b></h2>
+    <h2 style="color:white;text-align:center;"><b>Employee Performance Prediction for Job Rotation (Prototype)</b></h2>
     </div>
     """
 st.markdown(html_temp,unsafe_allow_html=True)
